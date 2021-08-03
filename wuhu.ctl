@@ -1,6 +1,6 @@
 ;Calculate the frequencies and states of the lowest five TM modes in the Wu and Hu setup, at the Gamma, K, and M point.
 
-(define myR (/ 1 2.78)); I used 3.1 for the expanded and 2.7 for the shrunken phase
+(define myR (/ 1 2.78)); I used 3.16 for the shrunken and 2.78 for the extended phase
 (define myD (/ (/ 2 3) 3))
 (define myEd 11.7)
 
