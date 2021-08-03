@@ -65,7 +65,7 @@
 
 (set! sources (list
                (make source
-                 (src (make continuous-src (frequency 0.4)))
+                 (src (make continuous-src (frequency 0.4))); I used 0.4 for the below and 0.48 for the in gap simulation
                  (component Ez)
                  (center -6 6))))
 
